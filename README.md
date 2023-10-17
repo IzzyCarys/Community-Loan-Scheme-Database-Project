@@ -8,7 +8,7 @@ This repository contains:
 
 You can contact me via email at isobelcarysolney@gmail.com
 
-##Notes About This Project
+# Notes About This Project
 
 Where I live, I have seen a number of community loan schemes startup. These schemes allow people who face financial difficulties the ability to hire everyday items that they would otherwise not be able to utilise.  For example - a lawnmower or pressure washer. 
 
@@ -39,3 +39,11 @@ This information can be used to manage the community loan scheme, such as to:
 •	Track the status of loans
 •	Contact customers about upcoming loan due dates
 •	Generate reports on the usage of goods and the performance of the loan scheme
+
+# Pre-requisites
+
+I have completed the six fundamental activities and from the advanced requirenents I have created:
+
+* a sample stored procedure
+* a sample view that uses three base tables
+* an example query that uses GROUP BY
