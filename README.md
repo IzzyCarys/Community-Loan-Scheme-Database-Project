@@ -3,7 +3,7 @@
 This repository contains: 
 
 * the mySQL project code for the database I have created for the final presentation.
-* a Powerpoint presentation that provides an overview of the functionality of the database
+* a Powerpoint presentation that provides an overview of the functionality of the database in PowerPoint and PDF formats
 
 
 You can contact me via email at isobelcarysolney@gmail.com
