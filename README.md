@@ -3,6 +3,7 @@
 This repository contains: 
 
 * the mySQL project code for the database I have created for the final presentation.
+* the SQL queries, subqueries, stored functions and procedures and views
 * a Powerpoint presentation that provides an overview of the functionality of the database in PowerPoint and PDF formats
 
 
